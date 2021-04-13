@@ -1,0 +1,9 @@
+name = "hello-worker"
+type = "webpack"
+account_id = "9139ee4f43eaa56274bb6a182fed05c0"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./public"
